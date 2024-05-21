@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RSS772
-- 👀 I’m interested in to learn hacking
-- 🌱 I’m currently learning the B.Tec course of csit
-- 💞️ I’m looking to collaborate on hacking field
+- 👀 I’m interested to learn coding.
+- 🌱 I’m currently persuing B. Tech course in CSIT.
 
 
 <!---
