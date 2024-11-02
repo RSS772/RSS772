@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RSS772
 - 👀 I’m interested to learn coding.
-- 🌱 I’m currently persuing B. Tech course in CSIT.
+- 🌱 B. Tech  in CSIT.
 
 
 <!---
