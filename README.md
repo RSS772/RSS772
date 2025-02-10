@@ -5,7 +5,7 @@
 🎓 **B.Tech in Computer Science and Information Technology**  
 📍 **IES IPS Academy, Indore**  
 📫 **Contact**: [ritiksisodiya7610@gmail.com](mailto:ritiksisodiya7610@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/ritik-sisodiya-886a58249](https://www.linkedin.com/in/ritik-sisodiya-886a58249)  
+🔗 **LinkedIn**: [linkedin.com/in/ritik-sisodiya](https://www.linkedin.com/in/ritik-sisodiya)  
 
 I'm a passionate developer with a strong interest in building efficient and innovative solutions in software development, AI, and web technologies. Currently, I enjoy working on Java-based applications and full-stack web development projects.
 
@@ -23,20 +23,29 @@ I'm a passionate developer with a strong interest in building efficient and inno
 ## 💡 Projects
 
 ### **File Processing and Word Counter Application**
-- A Java-based application for text file processing and word frequency analysis.
-- **Technologies**: Java (BufferedReader, HashSet)
+- Designed a Java-based application for text file processing and word frequency analysis &Implemented modular components for stockword management,filereading,and output generation.
+
+- Used Buffered Reader and Buffered Writer for efficient filehandling & Optimized stockword lookups using HashSet for faster performance
+
+
+ ### **SEARCH ENGINE WEB APPLICATION**
+- DevelopedasearchengineusingJavaServlets,JSP,andMySQL
+- Implemented user authentication system with secure login and registration
+- Designed and optimized database schema for storing search history
+- Ensured smooth and efficient search query processing with pagination
 
 ### **AI as a Service (AIaaS)**
-- SaaS platform offering AI tools for various use cases, built with Next.js and Tailwind CSS.
+- Developed a full- Stack AI plat form with tools for image,video, conversation, music, and codegeneration.
+- Implemented a SaaS model with both free and subscription-based access.
+- Integrated authentication (Clerk) and payment processing (Stripe) for secure transactions
+- Designed a scalable and user-friendly UI using Next.js and Tailwind CSS
 - **Technologies**: Next.js, Stripe, Clerk
 
-### **Car Rental System**
-- A responsive web app for booking car rentals.
-- **Technologies**: HTML, CSS, JavaScript
 
 ### **Java Chatting Application**
 - Real-time chat application with a user-friendly interface.
 - **Technologies**: Core Java (Swing, AWT, Socket Programming)
+
 
 ---
 
